@@ -1,0 +1,22 @@
+{
+  "name": "@instun/sm2-sd-2023-cryptosuite",
+  "version": "1.0.0",
+  "description": "An sm2-sd-2023 Data Integrity cryptosuite for use with jsonld-signatures.",
+  "homepage": "https://github.com/instun/sm2-sd-2023-cryptosuite",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/instun/sm2-sd-2023-cryptosuite"
+  },
+  "license": "MIT",
+  "type": "module",
+  "exports": "./lib/index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@digitalbazaar/di-sd-primitives": "^3.1.0",
+    "@instun/sm2-multikey": "^2.1.0",
+    "base58-universal": "^2.0.0",
+    "cborg": "^4.2.7"
+  }
+}
