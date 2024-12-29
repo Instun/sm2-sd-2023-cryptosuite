@@ -102,4 +102,4 @@ Commercial support available from Instun: support@instun.com
 
 ## License
 
-[New BSD License (3-clause)](LICENSE) © 2024 Instun
+Copyright (c) 2024 Instun, Inc. All rights reserved.
